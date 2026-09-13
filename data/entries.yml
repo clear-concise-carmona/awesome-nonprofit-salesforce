@@ -1,0 +1,204 @@
+# Source of truth for the list. README.md is generated from this file - do not hand-edit
+# README.md directly, run `python scripts/generate_readme.py` after changing this file.
+#
+# Each entry:
+#   name: display name (defaults to the repo name if omitted)
+#   repo: "owner/name" - required for type: repo, omit for type: link
+#   url: required for type: link, optional for type: repo (defaults to https://github.com/<repo>)
+#   type: "repo" (default) or "link" (non-GitHub resource, e.g. a Trailhead module)
+#   category: must match a category id below
+#   description: one or two sentences, plain, no marketing language
+#   maintainer: optional - set for CCC's own repos so the list is transparent about self-listing
+
+categories:
+  - id: migration-data-model
+    title: Migration & Data Model
+  - id: data-quality-dedupe
+    title: Data Quality & Dedupe
+  - id: ai-agentforce
+    title: AI & Agentforce
+  - id: grants-fund-management
+    title: Grants & Fund Management
+  - id: fundraising-payments
+    title: Fundraising & Payments Integrations
+  - id: accessibility
+    title: Accessibility
+  - id: volunteer-management
+    title: Volunteer Management
+  - id: learning-resources
+    title: Learning Resources
+
+entries:
+  # --- Migration & Data Model ---
+  - name: NPSP
+    repo: SalesforceFoundation/NPSP
+    category: migration-data-model
+    description: >-
+      The official, actively maintained Nonprofit Success Pack source. Start here before assuming
+      a fork or mirror is more current - several exist and most are stale copies.
+
+  - name: NPSP to Nonprofit Cloud Field Map
+    repo: clear-concise-carmona/npsp-to-nonprofit-cloud-field-map
+    category: migration-data-model
+    maintainer: Clear Concise Consulting
+    description: >-
+      Source-cited, field-level crosswalk between every NPSP object/field and its Nonprofit Cloud
+      equivalent, with confidence tags on every row.
+
+  - name: NPSP Migration Readiness Scanner
+    repo: clear-concise-carmona/npsp-migration-readiness-scanner
+    category: migration-data-model
+    maintainer: Clear Concise Consulting
+    description: >-
+      sf CLI plugin that scores an org's NPSP-to-Nonprofit-Cloud migration readiness from 0-100
+      and lists the specific blockers found.
+
+  - name: Relationships
+    repo: SalesforceFoundation/Relationships
+    category: migration-data-model
+    description: >-
+      NPSP's Relationships package - tracks reciprocal relationships between contacts (spouse,
+      employer, etc.), a common migration pain point since Nonprofit Cloud models this differently.
+
+  - name: Data Lake for Nonprofits
+    repo: salesforce-misc/Data-Lake-for-Nonprofits
+    category: migration-data-model
+    description: >-
+      Reference architecture for standing up a data lake against nonprofit Salesforce data,
+      useful when a migration needs data warehoused outside the org during the transition.
+
+  - name: Declarative Lookup Rollup Summaries (DLRS)
+    repo: SFDO-Community/declarative-lookup-rollup-summaries
+    category: migration-data-model
+    description: >-
+      The de facto standard for declarative cross-object rollups in NPSP orgs. Worth auditing
+      before any Nonprofit Cloud migration since Nonprofit Cloud's rollup model differs from NPSP's.
+
+  # --- Data Quality & Dedupe ---
+  - name: DupeDedupe
+    repo: SFDO-Community-Sprints/DupeDedupe
+    category: data-quality-dedupe
+    description: >-
+      Community Sprint project on managing duplicates in Salesforce nonprofit orgs. Check the
+      status flag below before relying on it - Community Sprint projects vary widely in upkeep.
+
+  # --- AI & Agentforce ---
+  - name: Agentforce SDK
+    repo: salesforce/agent-sdk
+    category: ai-agentforce
+    description: >-
+      Official Python SDK for creating, managing, and running Agentforce agents. General-purpose,
+      not nonprofit-specific, but the current entry point for anything custom built on Agentforce.
+
+  - name: agentscript
+    repo: salesforce/agentscript
+    category: ai-agentforce
+    description: >-
+      Open, schema-driven language for configuring agent orchestration. Same caveat as the SDK
+      above - general Agentforce tooling, not nonprofit-specific, but relevant to anyone building
+      on Agentforce Nonprofit.
+
+  - name: Agentforce Archive Agent
+    repo: heroku-reference-apps/agentforce-archive-agent
+    category: ai-agentforce
+    description: >-
+      Worked example extending Agentforce with a custom Heroku action for unstructured-data
+      processing - a reasonable template if you're building a custom Agentforce action.
+
+  # --- Grants & Fund Management ---
+  - name: Outbound Funds Module
+    repo: SalesforceFoundation/OutboundFundsModule
+    category: grants-fund-management
+    description: >-
+      Community-maintained foundation for managing funds an organization awards - grants,
+      scholarships, internal funding.
+
+  - name: Outbound Funds Module Site
+    repo: SalesforceFoundation/OutboundFundsModuleSite
+    category: grants-fund-management
+    description: >-
+      Fundseeker-facing Experience Cloud portal template that pairs with Outbound Funds Module.
+
+  - name: Program Management Module (PMM)
+    repo: SalesforceFoundation/PMM
+    category: grants-fund-management
+    description: >-
+      Service delivery and outcomes tracking for programs, cohorts, and case management.
+
+  # --- Fundraising & Payments Integrations ---
+  - name: FinDock for Fundraising Flows
+    repo: FinDockLabs/findock-for-fundraising-flows
+    category: fundraising-payments
+    description: >-
+      Flow and component examples for wiring FinDock payments into Nonprofit Cloud Gift
+      Commitment schedules.
+
+  - name: FinDock Experience Cloud Examples
+    repo: FinDockLabs/findock-experience-cloud-examples
+    category: fundraising-payments
+    description: >-
+      Code examples for integrating FinDock donation processing into Experience Cloud donor sites.
+
+  # --- Accessibility ---
+  - name: sa11y
+    repo: salesforce/sa11y
+    category: accessibility
+    description: >-
+      Salesforce's own automated accessibility testing libraries - worth wiring into CI for any
+      nonprofit build with a public donor or client-facing portal.
+
+  # --- Volunteer Management ---
+  - name: Volunteers for Salesforce (V4S)
+    repo: SalesforceFoundation/Volunteers-for-Salesforce
+    category: volunteer-management
+    description: >-
+      The standard managed package for volunteer recruitment, scheduling, and hour tracking on
+      NPSP orgs.
+
+  - name: PMM + V4S Recipe
+    repo: SFDO-Community-Sprints/PMM-V4S
+    category: volunteer-management
+    description: >-
+      Community Sprint recipe for connecting Program Management Module and Volunteers for
+      Salesforce. Flagged archived below - treat as a reference, not a maintained integration.
+
+  # --- Learning Resources ---
+  - name: Salesforce.org Open Source Commons
+    type: link
+    url: https://sfdo-community-sprints.github.io/
+    category: learning-resources
+    description: >-
+      The hub coordinating every Community Sprint project in this list - where new sprints,
+      projects, and events get announced.
+
+  - name: "Trailhead: Agentforce Nonprofit Basics"
+    type: link
+    url: https://trailhead.salesforce.com/content/learn/modules/nonprofit-cloud-basics
+    category: learning-resources
+    description: Official starting module for Agentforce Nonprofit (formerly Nonprofit Cloud).
+
+  - name: "Trailhead: Nonprofit Cloud Learning Resources Quick Look"
+    type: link
+    url: https://trailhead.salesforce.com/content/learn/modules/nonprofit-cloud-learning-resources-quick-look
+    category: learning-resources
+    description: Salesforce's own curated map of nonprofit-cloud learning content.
+
+  - name: Nonprofit Salesforce How-To Series
+    repo: SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series
+    category: learning-resources
+    description: >-
+      Short how-to videos for nonprofit Salesforce admins and users, produced at ongoing
+      Community Sprints.
+
+  - name: Salesforce Trailhead Solutions
+    repo: artysta/salesforce-trailhead-solutions
+    category: learning-resources
+    description: >-
+      Worked Trailhead exercise solutions - handy reference when a module's checker gets stuck.
+
+  - name: DEI Framework
+    repo: SFDO-Community-Sprints/DEI-Framework
+    category: learning-resources
+    description: >-
+      Community Sprint project drafting a diversity/equity/inclusion framework for the nonprofit
+      Salesforce ecosystem. Flagged archived below.

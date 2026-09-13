@@ -1,0 +1,43 @@
+name: Check entry status
+
+# Runs weekly (and on manual dispatch), regenerates docs/STATUS.md from the
+# live GitHub API, and commits the result if it changed. This is the only
+# workflow that commits to main on its own - everything else only validates.
+
+on:
+  schedule:
+    - cron: "0 13 * * 1" # Mondays 13:00 UTC (09:00 America/New_York)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run status check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/check_status.py
+
+      - name: Commit status update if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/STATUS.md data/status_cache.json
+          if git diff --cached --quiet; then
+            echo "No status changes."
+          else
+            git commit -m "chore: update entry status report [skip ci]"
+            git push
+          fi

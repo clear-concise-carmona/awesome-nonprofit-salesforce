@@ -1,0 +1,131 @@
+{
+  "checked_at": "2026-09-13 18:34 UTC",
+  "results": [
+    {
+      "repo": "SalesforceFoundation/NPSP",
+      "archived": false,
+      "pushed_at": "2026-09-02T20:16:01Z",
+      "stargazers_count": 44
+    },
+    {
+      "repo": "clear-concise-carmona/npsp-to-nonprofit-cloud-field-map",
+      "archived": false,
+      "pushed_at": "2026-09-13T12:47:00Z",
+      "stargazers_count": 0
+    },
+    {
+      "repo": "clear-concise-carmona/npsp-migration-readiness-scanner",
+      "archived": false,
+      "pushed_at": "2026-09-13T17:30:07Z",
+      "stargazers_count": 0
+    },
+    {
+      "repo": "SalesforceFoundation/Relationships",
+      "archived": false,
+      "pushed_at": "2025-04-16T19:51:31Z",
+      "stargazers_count": 5
+    },
+    {
+      "repo": "salesforce-misc/Data-Lake-for-Nonprofits",
+      "archived": false,
+      "pushed_at": "2026-06-02T17:52:07Z",
+      "stargazers_count": 13
+    },
+    {
+      "repo": "SFDO-Community/declarative-lookup-rollup-summaries",
+      "archived": false,
+      "pushed_at": "2026-07-27T18:38:39Z",
+      "stargazers_count": 721
+    },
+    {
+      "repo": "SFDO-Community-Sprints/DupeDedupe",
+      "archived": true,
+      "pushed_at": "2025-09-09T14:36:00Z",
+      "stargazers_count": 1
+    },
+    {
+      "repo": "salesforce/agent-sdk",
+      "archived": true,
+      "pushed_at": "2026-09-02T18:56:53Z",
+      "stargazers_count": 82
+    },
+    {
+      "repo": "salesforce/agentscript",
+      "archived": false,
+      "pushed_at": "2026-09-03T21:00:25Z",
+      "stargazers_count": 266
+    },
+    {
+      "repo": "heroku-reference-apps/agentforce-archive-agent",
+      "archived": false,
+      "pushed_at": "2025-11-10T14:43:18Z",
+      "stargazers_count": 5
+    },
+    {
+      "repo": "SalesforceFoundation/OutboundFundsModule",
+      "archived": false,
+      "pushed_at": "2025-04-11T18:11:20Z",
+      "stargazers_count": 30
+    },
+    {
+      "repo": "SalesforceFoundation/OutboundFundsModuleSite",
+      "archived": false,
+      "pushed_at": "2026-04-15T05:59:25Z",
+      "stargazers_count": 1
+    },
+    {
+      "repo": "SalesforceFoundation/PMM",
+      "archived": false,
+      "pushed_at": "2026-04-15T11:12:41Z",
+      "stargazers_count": 25
+    },
+    {
+      "repo": "FinDockLabs/findock-for-fundraising-flows",
+      "archived": false,
+      "pushed_at": "2026-06-17T07:29:44Z",
+      "stargazers_count": 4
+    },
+    {
+      "repo": "FinDockLabs/findock-experience-cloud-examples",
+      "archived": false,
+      "pushed_at": "2026-07-03T12:51:37Z",
+      "stargazers_count": 0
+    },
+    {
+      "repo": "salesforce/sa11y",
+      "archived": false,
+      "pushed_at": "2026-09-11T05:04:51Z",
+      "stargazers_count": 107
+    },
+    {
+      "repo": "SalesforceFoundation/Volunteers-for-Salesforce",
+      "archived": false,
+      "pushed_at": "2026-03-25T17:46:51Z",
+      "stargazers_count": 4
+    },
+    {
+      "repo": "SFDO-Community-Sprints/PMM-V4S",
+      "archived": true,
+      "pushed_at": "2023-04-26T15:51:05Z",
+      "stargazers_count": 5
+    },
+    {
+      "repo": "SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series",
+      "archived": false,
+      "pushed_at": "2026-08-12T19:20:32Z",
+      "stargazers_count": 28
+    },
+    {
+      "repo": "artysta/salesforce-trailhead-solutions",
+      "archived": false,
+      "pushed_at": "2026-05-15T08:15:03Z",
+      "stargazers_count": 34
+    },
+    {
+      "repo": "SFDO-Community-Sprints/DEI-Framework",
+      "archived": true,
+      "pushed_at": "2022-05-05T16:47:43Z",
+      "stargazers_count": 16
+    }
+  ]
+}
