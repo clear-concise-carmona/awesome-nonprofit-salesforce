@@ -75,6 +75,15 @@ entries:
       before any Nonprofit Cloud migration since Nonprofit Cloud's rollup model differs from NPSP's.
 
   # --- Data Quality & Dedupe ---
+  - name: Nonprofit Data Quality Scorecard
+    repo: clear-concise-carmona/nonprofit-data-quality-scorecard
+    category: data-quality-dedupe
+    maintainer: Clear Concise Consulting
+    description: >-
+      Apex + LWC package scoring an org on 10 data quality metrics (duplicates, stale contacts,
+      orphan gifts, missing GAU allocations, and more), detecting NPSP vs. Nonprofit Cloud at
+      runtime and branching queries accordingly.
+
   - name: DupeDedupe
     repo: SFDO-Community-Sprints/DupeDedupe
     category: data-quality-dedupe

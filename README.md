@@ -25,6 +25,7 @@ A separate weekly job checks every GitHub-hosted entry's real status - archived 
 
 ### Data Quality & Dedupe
 
+- **[Nonprofit Data Quality Scorecard](https://github.com/clear-concise-carmona/nonprofit-data-quality-scorecard)** - Apex + LWC package scoring an org on 10 data quality metrics (duplicates, stale contacts, orphan gifts, missing GAU allocations, and more), detecting NPSP vs. Nonprofit Cloud at runtime and branching queries accordingly. _(maintained by Clear Concise Consulting)_
 - **[DupeDedupe](https://github.com/SFDO-Community-Sprints/DupeDedupe)** - Community Sprint project on managing duplicates in Salesforce nonprofit orgs. Check the status flag below before relying on it - Community Sprint projects vary widely in upkeep.
 
 ### AI & Agentforce
