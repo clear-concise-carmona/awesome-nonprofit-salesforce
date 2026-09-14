@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13 18:37 UTC",
+  "checked_at": "2026-09-14 18:28 UTC",
   "results": [
     {
       "repo": "SalesforceFoundation/NPSP",
@@ -38,6 +38,12 @@
       "stargazers_count": 721
     },
     {
+      "repo": "clear-concise-carmona/nonprofit-data-quality-scorecard",
+      "archived": false,
+      "pushed_at": "2026-09-14T04:43:03Z",
+      "stargazers_count": 0
+    },
+    {
       "repo": "SFDO-Community-Sprints/DupeDedupe",
       "archived": true,
       "pushed_at": "2025-09-09T14:36:00Z",
@@ -53,13 +59,19 @@
       "repo": "salesforce/agentscript",
       "archived": false,
       "pushed_at": "2026-09-03T21:00:25Z",
-      "stargazers_count": 266
+      "stargazers_count": 267
     },
     {
       "repo": "heroku-reference-apps/agentforce-archive-agent",
       "archived": false,
       "pushed_at": "2025-11-10T14:43:18Z",
       "stargazers_count": 5
+    },
+    {
+      "repo": "clear-concise-carmona/agentforce-nonprofit-governance-kit",
+      "archived": false,
+      "pushed_at": "2026-09-14T04:56:07Z",
+      "stargazers_count": 0
     },
     {
       "repo": "SalesforceFoundation/OutboundFundsModule",
