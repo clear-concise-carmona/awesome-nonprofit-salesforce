@@ -33,6 +33,7 @@ A separate weekly job checks every GitHub-hosted entry's real status - archived 
 - **[Agentforce SDK](https://github.com/salesforce/agent-sdk)** - Official Python SDK for creating, managing, and running Agentforce agents. General-purpose, not nonprofit-specific, but the current entry point for anything custom built on Agentforce.
 - **[agentscript](https://github.com/salesforce/agentscript)** - Open, schema-driven language for configuring agent orchestration. Same caveat as the SDK above - general Agentforce tooling, not nonprofit-specific, but relevant to anyone building on Agentforce Nonprofit.
 - **[Agentforce Archive Agent](https://github.com/heroku-reference-apps/agentforce-archive-agent)** - Worked example extending Agentforce with a custom Heroku action for unstructured-data processing - a reasonable template if you're building a custom Agentforce action.
+- **[Agentforce Nonprofit Governance Kit](https://github.com/clear-concise-carmona/agentforce-nonprofit-governance-kit)** - Free 15-question weighted AI governance readiness scorecard for Agentforce, an sf CLI plugin with read-only org checks (Einstein Trust Layer settings, prompt template and agent inventory, consent field coverage), and four forkable policy templates covering AI usage, data handling and consent, escalation and human review, and incident response. _(maintained by Clear Concise Consulting)_
 
 ### Grants & Fund Management
 

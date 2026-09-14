@@ -114,6 +114,16 @@ entries:
       Worked example extending Agentforce with a custom Heroku action for unstructured-data
       processing - a reasonable template if you're building a custom Agentforce action.
 
+  - name: Agentforce Nonprofit Governance Kit
+    repo: clear-concise-carmona/agentforce-nonprofit-governance-kit
+    category: ai-agentforce
+    maintainer: Clear Concise Consulting
+    description: >-
+      Free 15-question weighted AI governance readiness scorecard for Agentforce, an sf CLI
+      plugin with read-only org checks (Einstein Trust Layer settings, prompt template and agent
+      inventory, consent field coverage), and four forkable policy templates covering AI usage,
+      data handling and consent, escalation and human review, and incident response.
+
   # --- Grants & Fund Management ---
   - name: Outbound Funds Module
     repo: SalesforceFoundation/OutboundFundsModule
