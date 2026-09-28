@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21 18:34 UTC",
+  "checked_at": "2026-09-28 20:03 UTC",
   "results": [
     {
       "repo": "SalesforceFoundation/NPSP",
@@ -59,7 +59,7 @@
       "repo": "salesforce/agentscript",
       "archived": false,
       "pushed_at": "2026-09-03T21:00:25Z",
-      "stargazers_count": 268
+      "stargazers_count": 267
     },
     {
       "repo": "heroku-reference-apps/agentforce-archive-agent",
@@ -106,13 +106,13 @@
     {
       "repo": "salesforce/sa11y",
       "archived": false,
-      "pushed_at": "2026-09-16T15:53:13Z",
+      "pushed_at": "2026-09-24T23:44:44Z",
       "stargazers_count": 107
     },
     {
       "repo": "SalesforceFoundation/Volunteers-for-Salesforce",
       "archived": false,
-      "pushed_at": "2026-03-25T17:46:51Z",
+      "pushed_at": "2026-09-28T15:33:58Z",
       "stargazers_count": 4
     },
     {
