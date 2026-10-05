@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-09-28 20:03 UTC",
+  "checked_at": "2026-10-05 21:02 UTC",
   "results": [
     {
       "repo": "SalesforceFoundation/NPSP",
       "archived": false,
       "pushed_at": "2026-09-18T18:02:39Z",
-      "stargazers_count": 44
+      "stargazers_count": 45
     },
     {
       "repo": "clear-concise-carmona/npsp-to-nonprofit-cloud-field-map",
@@ -58,8 +58,8 @@
     {
       "repo": "salesforce/agentscript",
       "archived": false,
-      "pushed_at": "2026-09-03T21:00:25Z",
-      "stargazers_count": 267
+      "pushed_at": "2026-10-01T16:41:29Z",
+      "stargazers_count": 269
     },
     {
       "repo": "heroku-reference-apps/agentforce-archive-agent",
@@ -106,13 +106,13 @@
     {
       "repo": "salesforce/sa11y",
       "archived": false,
-      "pushed_at": "2026-09-24T23:44:44Z",
+      "pushed_at": "2026-10-05T17:37:17Z",
       "stargazers_count": 107
     },
     {
       "repo": "SalesforceFoundation/Volunteers-for-Salesforce",
       "archived": false,
-      "pushed_at": "2026-09-28T15:33:58Z",
+      "pushed_at": "2026-10-01T20:47:33Z",
       "stargazers_count": 4
     },
     {
