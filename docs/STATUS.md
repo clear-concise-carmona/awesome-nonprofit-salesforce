@@ -2,7 +2,7 @@
 
 Generated automatically by `scripts/check_status.py`, run weekly by `.github/workflows/check-status.yml`. Do not hand-edit - changes are overwritten on the next run.
 
-Last checked: 2026-10-19 19:11 UTC
+Last checked: 2026-10-26 19:06 UTC
 
 Flag threshold: no push in 18+ months → "may be unmaintained". This is informational, not a reason to remove an entry - see CONTRIBUTING.md.
 
@@ -13,14 +13,14 @@ Flag threshold: no push in 18+ months → "may be unmaintained". This is informa
 | [clear-concise-carmona/nonprofit-data-quality-scorecard](https://github.com/clear-concise-carmona/nonprofit-data-quality-scorecard) | 0 | 2026-09-18 |  |
 | [clear-concise-carmona/npsp-migration-readiness-scanner](https://github.com/clear-concise-carmona/npsp-migration-readiness-scanner) | 0 | 2026-09-18 |  |
 | [clear-concise-carmona/npsp-to-nonprofit-cloud-field-map](https://github.com/clear-concise-carmona/npsp-to-nonprofit-cloud-field-map) | 0 | 2026-09-13 |  |
-| [FinDockLabs/findock-experience-cloud-examples](https://github.com/FinDockLabs/findock-experience-cloud-examples) | 0 | 2026-10-19 |  |
-| [FinDockLabs/findock-for-fundraising-flows](https://github.com/FinDockLabs/findock-for-fundraising-flows) | 4 | 2026-10-15 |  |
+| [FinDockLabs/findock-experience-cloud-examples](https://github.com/FinDockLabs/findock-experience-cloud-examples) | 0 | 2026-10-20 |  |
+| [FinDockLabs/findock-for-fundraising-flows](https://github.com/FinDockLabs/findock-for-fundraising-flows) | 4 | 2026-10-21 |  |
 | [heroku-reference-apps/agentforce-archive-agent](https://github.com/heroku-reference-apps/agentforce-archive-agent) | 5 | 2025-11-10 |  |
 | [salesforce-misc/Data-Lake-for-Nonprofits](https://github.com/salesforce-misc/Data-Lake-for-Nonprofits) | 13 | 2026-06-02 |  |
 | [salesforce/agent-sdk](https://github.com/salesforce/agent-sdk) | 82 | 2026-09-02 | 🗄️ archived |
-| [salesforce/agentscript](https://github.com/salesforce/agentscript) | 272 | 2026-10-15 |  |
-| [salesforce/sa11y](https://github.com/salesforce/sa11y) | 109 | 2026-10-19 |  |
-| [SalesforceFoundation/NPSP](https://github.com/SalesforceFoundation/NPSP) | 45 | 2026-10-14 |  |
+| [salesforce/agentscript](https://github.com/salesforce/agentscript) | 273 | 2026-10-15 |  |
+| [salesforce/sa11y](https://github.com/salesforce/sa11y) | 110 | 2026-10-22 |  |
+| [SalesforceFoundation/NPSP](https://github.com/SalesforceFoundation/NPSP) | 46 | 2026-10-14 |  |
 | [SalesforceFoundation/OutboundFundsModule](https://github.com/SalesforceFoundation/OutboundFundsModule) | 30 | 2025-04-11 | ⏳ may be unmaintained |
 | [SalesforceFoundation/OutboundFundsModuleSite](https://github.com/SalesforceFoundation/OutboundFundsModuleSite) | 1 | 2026-04-15 |  |
 | [SalesforceFoundation/PMM](https://github.com/SalesforceFoundation/PMM) | 25 | 2026-04-15 |  |
@@ -28,6 +28,6 @@ Flag threshold: no push in 18+ months → "may be unmaintained". This is informa
 | [SalesforceFoundation/Volunteers-for-Salesforce](https://github.com/SalesforceFoundation/Volunteers-for-Salesforce) | 5 | 2026-10-01 |  |
 | [SFDO-Community-Sprints/DEI-Framework](https://github.com/SFDO-Community-Sprints/DEI-Framework) | 16 | 2022-05-05 | 🗄️ archived |
 | [SFDO-Community-Sprints/DupeDedupe](https://github.com/SFDO-Community-Sprints/DupeDedupe) | 1 | 2025-09-09 | 🗄️ archived |
-| [SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series](https://github.com/SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series) | 28 | 2026-10-18 |  |
+| [SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series](https://github.com/SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series) | 29 | 2026-10-25 |  |
 | [SFDO-Community-Sprints/PMM-V4S](https://github.com/SFDO-Community-Sprints/PMM-V4S) | 5 | 2023-04-26 | 🗄️ archived |
 | [SFDO-Community/declarative-lookup-rollup-summaries](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries) | 720 | 2026-10-15 |  |
