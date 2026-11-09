@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02 22:15 UTC",
+  "checked_at": "2026-11-09 22:56 UTC",
   "results": [
     {
       "repo": "SalesforceFoundation/NPSP",
@@ -34,7 +34,7 @@
     {
       "repo": "SFDO-Community/declarative-lookup-rollup-summaries",
       "archived": false,
-      "pushed_at": "2026-10-15T17:34:28Z",
+      "pushed_at": "2026-11-09T14:12:49Z",
       "stargazers_count": 720
     },
     {
@@ -59,7 +59,7 @@
       "repo": "salesforce/agentscript",
       "archived": false,
       "pushed_at": "2026-10-30T22:51:03Z",
-      "stargazers_count": 274
+      "stargazers_count": 275
     },
     {
       "repo": "heroku-reference-apps/agentforce-archive-agent",
@@ -106,8 +106,8 @@
     {
       "repo": "salesforce/sa11y",
       "archived": false,
-      "pushed_at": "2026-11-02T07:44:52Z",
-      "stargazers_count": 110
+      "pushed_at": "2026-11-05T22:06:29Z",
+      "stargazers_count": 111
     },
     {
       "repo": "SalesforceFoundation/Volunteers-for-Salesforce",
