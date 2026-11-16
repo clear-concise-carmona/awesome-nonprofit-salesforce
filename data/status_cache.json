@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-09 22:56 UTC",
+  "checked_at": "2026-11-16 22:49 UTC",
   "results": [
     {
       "repo": "SalesforceFoundation/NPSP",
       "archived": false,
-      "pushed_at": "2026-10-30T20:34:22Z",
+      "pushed_at": "2026-11-12T21:19:43Z",
       "stargazers_count": 46
     },
     {
@@ -34,8 +34,8 @@
     {
       "repo": "SFDO-Community/declarative-lookup-rollup-summaries",
       "archived": false,
-      "pushed_at": "2026-11-09T14:12:49Z",
-      "stargazers_count": 720
+      "pushed_at": "2026-11-11T21:31:24Z",
+      "stargazers_count": 721
     },
     {
       "repo": "clear-concise-carmona/nonprofit-data-quality-scorecard",
@@ -58,8 +58,8 @@
     {
       "repo": "salesforce/agentscript",
       "archived": false,
-      "pushed_at": "2026-10-30T22:51:03Z",
-      "stargazers_count": 275
+      "pushed_at": "2026-11-14T01:01:09Z",
+      "stargazers_count": 278
     },
     {
       "repo": "heroku-reference-apps/agentforce-archive-agent",
@@ -95,7 +95,7 @@
       "repo": "FinDockLabs/findock-for-fundraising-flows",
       "archived": false,
       "pushed_at": "2026-10-21T13:07:31Z",
-      "stargazers_count": 4
+      "stargazers_count": 1
     },
     {
       "repo": "FinDockLabs/findock-experience-cloud-examples",
@@ -106,13 +106,13 @@
     {
       "repo": "salesforce/sa11y",
       "archived": false,
-      "pushed_at": "2026-11-05T22:06:29Z",
+      "pushed_at": "2026-11-13T16:45:17Z",
       "stargazers_count": 111
     },
     {
       "repo": "SalesforceFoundation/Volunteers-for-Salesforce",
       "archived": false,
-      "pushed_at": "2026-10-01T20:47:33Z",
+      "pushed_at": "2026-11-10T19:22:19Z",
       "stargazers_count": 5
     },
     {
