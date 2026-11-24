@@ -2,7 +2,7 @@
 
 Generated automatically by `scripts/check_status.py`, run weekly by `.github/workflows/check-status.yml`. Do not hand-edit - changes are overwritten on the next run.
 
-Last checked: 2026-11-16 22:49 UTC
+Last checked: 2026-11-24 00:40 UTC
 
 Flag threshold: no push in 18+ months → "may be unmaintained". This is informational, not a reason to remove an entry - see CONTRIBUTING.md.
 
@@ -18,16 +18,16 @@ Flag threshold: no push in 18+ months → "may be unmaintained". This is informa
 | [heroku-reference-apps/agentforce-archive-agent](https://github.com/heroku-reference-apps/agentforce-archive-agent) | 5 | 2025-11-10 |  |
 | [salesforce-misc/Data-Lake-for-Nonprofits](https://github.com/salesforce-misc/Data-Lake-for-Nonprofits) | 13 | 2026-06-02 |  |
 | [salesforce/agent-sdk](https://github.com/salesforce/agent-sdk) | 82 | 2026-09-02 | 🗄️ archived |
-| [salesforce/agentscript](https://github.com/salesforce/agentscript) | 278 | 2026-11-14 |  |
-| [salesforce/sa11y](https://github.com/salesforce/sa11y) | 111 | 2026-11-13 |  |
-| [SalesforceFoundation/NPSP](https://github.com/SalesforceFoundation/NPSP) | 46 | 2026-11-12 |  |
+| [salesforce/agentscript](https://github.com/salesforce/agentscript) | 278 | 2026-11-19 |  |
+| [salesforce/sa11y](https://github.com/salesforce/sa11y) | 111 | 2026-11-20 |  |
+| [SalesforceFoundation/NPSP](https://github.com/SalesforceFoundation/NPSP) | 47 | 2026-11-12 |  |
 | [SalesforceFoundation/OutboundFundsModule](https://github.com/SalesforceFoundation/OutboundFundsModule) | 30 | 2025-04-11 | ⏳ may be unmaintained |
 | [SalesforceFoundation/OutboundFundsModuleSite](https://github.com/SalesforceFoundation/OutboundFundsModuleSite) | 1 | 2026-04-15 |  |
 | [SalesforceFoundation/PMM](https://github.com/SalesforceFoundation/PMM) | 25 | 2026-04-15 |  |
-| [SalesforceFoundation/Relationships](https://github.com/SalesforceFoundation/Relationships) | 5 | 2025-04-16 | ⏳ may be unmaintained |
+| [SalesforceFoundation/Relationships](https://github.com/SalesforceFoundation/Relationships) | 6 | 2025-04-16 | ⏳ may be unmaintained |
 | [SalesforceFoundation/Volunteers-for-Salesforce](https://github.com/SalesforceFoundation/Volunteers-for-Salesforce) | 5 | 2026-11-10 |  |
 | [SFDO-Community-Sprints/DEI-Framework](https://github.com/SFDO-Community-Sprints/DEI-Framework) | 16 | 2022-05-05 | 🗄️ archived |
 | [SFDO-Community-Sprints/DupeDedupe](https://github.com/SFDO-Community-Sprints/DupeDedupe) | 1 | 2025-09-09 | 🗄️ archived |
 | [SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series](https://github.com/SFDO-Community-Sprints/Nonprofit-Salesforce-How-To-Series) | 29 | 2026-10-25 |  |
 | [SFDO-Community-Sprints/PMM-V4S](https://github.com/SFDO-Community-Sprints/PMM-V4S) | 5 | 2023-04-26 | 🗄️ archived |
-| [SFDO-Community/declarative-lookup-rollup-summaries](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries) | 721 | 2026-11-11 |  |
+| [SFDO-Community/declarative-lookup-rollup-summaries](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries) | 720 | 2026-11-18 |  |
